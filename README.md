@@ -137,6 +137,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - SuperStarter - https://superstarter.focusapps.app/
 - TurboStarter https://turbostarter.dev
 - Usenextbase - https://usenextbase.com
+- VelocityKit - https://www.velocitykit.dev
 - PocketStarter for PocketBase - https://pocketstarter.dev
 
 ## React Native
@@ -277,4 +278,5 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - DeployFast - https://deployfast.cloud
 - Terraform Starter - **Open Source** [https://github.com/DmitrySadovnikov/terraform-starter](https://github.com/DmitrySadovnikov/terraform-starter) [![Stars](https://img.shields.io/github/stars/DmitrySadovnikov/terraform-starter.svg)](https://github.com/DmitrySadovnikov/terraform-starter)
+
 
