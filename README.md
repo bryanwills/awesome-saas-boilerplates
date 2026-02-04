@@ -138,6 +138,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - SuperStarter - https://superstarter.focusapps.app/
 - TurboStarter https://turbostarter.dev
 - Usenextbase - https://usenextbase.com
+- VelocityKit - https://www.velocitykit.dev
 - PocketStarter for PocketBase - https://pocketstarter.dev
 
 ## React Native
